@@ -1,0 +1,9 @@
+spotipy
+pandas
+numpy
+fastparquet
+sqlalchemy
+pyarrow
+ipykernel
+tqdm
+airflow
